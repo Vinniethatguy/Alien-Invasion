@@ -1,3 +1,3 @@
 # Alien-Invasion
 
-Here's my first big project. Space Invadors-Alien Invasion. The project is coded in Python using the pygame module. The project was very fun, importing pygame and the use of OOP. A ton of classses where used, acorss the files and functions.
+Here's my first big project. Space Invadors-Alien Invasion. The project is coded in Python using the pygame module. We start the program of with object oriented programming. I created a class with a lot of method. As The project progressed I created more files for the game functionality, neater code, and organization. Creating and importing the aliens, ships, settings, movement and bullets where impored to the main file. The project was very helpful in learning the power of object oriented programing and pygame. The most difficult proceess of the project was getting the ship movement, the aliens disappering are making contact with the bullet and getting the game to run after starting it in an inactive state.
